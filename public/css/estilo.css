@@ -1,0 +1,121 @@
+header .navbar{
+    background-color: #d9d9d9;
+    border-bottom: solid 2px #24748c;
+}
+.navbar .nav{
+    float: right;
+   
+}
+.navbar .nav li a{
+    color: silver;
+    font-size: 19px;
+}
+.navbar .nav li a:hover{
+    background-color:#bbb;
+}
+
+h1{
+  font-family: 'Alegreya', serif;
+  color: #24748c;
+}
+h2{
+      color: silver;
+}
+.espacio{
+    margin-top: 20px;
+}
+.navbar .brand{
+    color: #24748c;
+    font-size: 21px;
+}
+.navbar a:hover{
+    color: white;
+    background-color: #bbb;
+}
+#conocimientos{
+    margin-bottom: 15px;
+}
+.centrar{
+    text-align: center;
+}
+footer{
+    background-color: #24748c;
+}
+#pie1{
+    margin-top: 20px;
+}
+#pie2{
+    margin-bottom: 20px;
+}
+.pie{
+    color: white;
+    font-size: 15px;
+}
+.menufooter li{
+    display: inline;
+    padding: 4px;
+    font-size:15px;   
+}
+.menufooter li a{
+    text-decoration:none;
+     color: white;
+}
+.menufooter li a:hover{
+     color: silver;
+}
+.menufooter li:before{
+    content:"|";
+    margin-right: 10px;
+    color: white;
+}
+.menufooter .primero:before{
+    content:"";
+    
+}
+.email{
+    text-decoration:none;
+    color: white;
+}
+.email:hover{
+    color: silver;
+}
+
+
+/*******************
+----Formulario--------
+*******************/
+#formulario{
+    text-align:center;
+}
+.error{
+    color: red;
+}
+/*******************
+----PORTAFOLIO--------
+*******************/
+.label-info{
+    font-size:12px;
+    text-align:justify;
+    margin-top: 5px;
+}
+.label{
+    font-size:12px;
+    margin-bottom: 20px;
+}
+.label-success a{
+ text-decoration:none;
+ color: white;   
+}
+
+#msj{
+    text-align:center;
+    height:200px;
+    margin-top: 50px;
+    margin-bottom: 140px;
+}
+#msjtitulo{
+    padding-top:60px;
+}
+#redireccion{
+    margin-top: 20px;
+}
